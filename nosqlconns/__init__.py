@@ -1,0 +1,1 @@
+from nosqlconns.connectors import df_from_firestore
